@@ -1,0 +1,21 @@
+country_id,country_name,continent,currency,income_group
+1,USA,South America,GBP,Low
+2,Canada,Africa,USD,High
+3,UK,Asia,JPY,Lower-Middle
+4,Germany,Africa,EUR,High
+5,France,Africa,INR,Lower-Middle
+6,Italy,Europe,GBP,Lower-Middle
+7,Spain,Asia,JPY,High
+8,Australia,Asia,USD,High
+9,India,Asia,USD,Lower-Middle
+10,China,Africa,CNY,Upper-Middle
+11,Japan,South America,CNY,Low
+12,Brazil,Asia,EUR,High
+13,South Korea,Oceania,JPY,Low
+14,Mexico,Africa,JPY,Upper-Middle
+15,South Africa,Europe,INR,Upper-Middle
+16,Russia,South America,INR,Upper-Middle
+17,Netherlands,Oceania,INR,High
+18,Sweden,Oceania,CNY,Upper-Middle
+19,Switzerland,Europe,JPY,High
+20,UAE,South America,JPY,Upper-Middle

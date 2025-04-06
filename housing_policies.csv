@@ -1,0 +1,61 @@
+policy_id,country_id,year,policy_name,description,impact
+1,1,2013,Rent Control,Rent Control implemented in USA.,negative
+2,1,2021,First-Time Buyer Credit,First-Time Buyer Credit implemented in USA.,negative
+3,1,2021,Affordable Housing Mandate,Affordable Housing Mandate implemented in USA.,positive
+4,2,2017,Rent Control,Rent Control implemented in Canada.,negative
+5,2,2012,First-Time Buyer Credit,First-Time Buyer Credit implemented in Canada.,neutral
+6,2,2010,Affordable Housing Mandate,Affordable Housing Mandate implemented in Canada.,neutral
+7,3,2017,Rent Control,Rent Control implemented in UK.,neutral
+8,3,2015,First-Time Buyer Credit,First-Time Buyer Credit implemented in UK.,neutral
+9,3,2019,Affordable Housing Mandate,Affordable Housing Mandate implemented in UK.,neutral
+10,4,2022,Rent Control,Rent Control implemented in Germany.,negative
+11,4,2011,First-Time Buyer Credit,First-Time Buyer Credit implemented in Germany.,neutral
+12,4,2021,Affordable Housing Mandate,Affordable Housing Mandate implemented in Germany.,neutral
+13,5,2019,Rent Control,Rent Control implemented in France.,neutral
+14,5,2013,First-Time Buyer Credit,First-Time Buyer Credit implemented in France.,neutral
+15,5,2017,Affordable Housing Mandate,Affordable Housing Mandate implemented in France.,neutral
+16,6,2016,Rent Control,Rent Control implemented in Italy.,positive
+17,6,2017,First-Time Buyer Credit,First-Time Buyer Credit implemented in Italy.,positive
+18,6,2022,Affordable Housing Mandate,Affordable Housing Mandate implemented in Italy.,neutral
+19,7,2014,Rent Control,Rent Control implemented in Spain.,neutral
+20,7,2018,First-Time Buyer Credit,First-Time Buyer Credit implemented in Spain.,positive
+21,7,2018,Affordable Housing Mandate,Affordable Housing Mandate implemented in Spain.,positive
+22,8,2022,Rent Control,Rent Control implemented in Australia.,positive
+23,8,2018,First-Time Buyer Credit,First-Time Buyer Credit implemented in Australia.,negative
+24,8,2018,Affordable Housing Mandate,Affordable Housing Mandate implemented in Australia.,positive
+25,9,2021,Rent Control,Rent Control implemented in India.,negative
+26,9,2020,First-Time Buyer Credit,First-Time Buyer Credit implemented in India.,negative
+27,9,2010,Affordable Housing Mandate,Affordable Housing Mandate implemented in India.,negative
+28,10,2012,Rent Control,Rent Control implemented in China.,positive
+29,10,2020,First-Time Buyer Credit,First-Time Buyer Credit implemented in China.,positive
+30,10,2019,Affordable Housing Mandate,Affordable Housing Mandate implemented in China.,negative
+31,11,2019,Rent Control,Rent Control implemented in Japan.,positive
+32,11,2021,First-Time Buyer Credit,First-Time Buyer Credit implemented in Japan.,negative
+33,11,2018,Affordable Housing Mandate,Affordable Housing Mandate implemented in Japan.,neutral
+34,12,2010,Rent Control,Rent Control implemented in Brazil.,negative
+35,12,2016,First-Time Buyer Credit,First-Time Buyer Credit implemented in Brazil.,neutral
+36,12,2017,Affordable Housing Mandate,Affordable Housing Mandate implemented in Brazil.,positive
+37,13,2012,Rent Control,Rent Control implemented in South Korea.,neutral
+38,13,2020,First-Time Buyer Credit,First-Time Buyer Credit implemented in South Korea.,negative
+39,13,2010,Affordable Housing Mandate,Affordable Housing Mandate implemented in South Korea.,negative
+40,14,2014,Rent Control,Rent Control implemented in Mexico.,negative
+41,14,2012,First-Time Buyer Credit,First-Time Buyer Credit implemented in Mexico.,positive
+42,14,2014,Affordable Housing Mandate,Affordable Housing Mandate implemented in Mexico.,neutral
+43,15,2016,Rent Control,Rent Control implemented in South Africa.,negative
+44,15,2016,First-Time Buyer Credit,First-Time Buyer Credit implemented in South Africa.,negative
+45,15,2018,Affordable Housing Mandate,Affordable Housing Mandate implemented in South Africa.,negative
+46,16,2019,Rent Control,Rent Control implemented in Russia.,neutral
+47,16,2021,First-Time Buyer Credit,First-Time Buyer Credit implemented in Russia.,positive
+48,16,2012,Affordable Housing Mandate,Affordable Housing Mandate implemented in Russia.,negative
+49,17,2016,Rent Control,Rent Control implemented in Netherlands.,positive
+50,17,2013,First-Time Buyer Credit,First-Time Buyer Credit implemented in Netherlands.,positive
+51,17,2013,Affordable Housing Mandate,Affordable Housing Mandate implemented in Netherlands.,neutral
+52,18,2014,Rent Control,Rent Control implemented in Sweden.,negative
+53,18,2016,First-Time Buyer Credit,First-Time Buyer Credit implemented in Sweden.,positive
+54,18,2020,Affordable Housing Mandate,Affordable Housing Mandate implemented in Sweden.,positive
+55,19,2013,Rent Control,Rent Control implemented in Switzerland.,positive
+56,19,2016,First-Time Buyer Credit,First-Time Buyer Credit implemented in Switzerland.,negative
+57,19,2012,Affordable Housing Mandate,Affordable Housing Mandate implemented in Switzerland.,neutral
+58,20,2021,Rent Control,Rent Control implemented in UAE.,neutral
+59,20,2019,First-Time Buyer Credit,First-Time Buyer Credit implemented in UAE.,positive
+60,20,2018,Affordable Housing Mandate,Affordable Housing Mandate implemented in UAE.,positive
